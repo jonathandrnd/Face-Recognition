@@ -20,7 +20,7 @@ Face recognition problems commonly fall into two categories:
 - **haarcascade_frontalface_default.xml** It was used for comparison purposes with MTCNN.
 - **friends_output.mp4:** Result of run the algorithm.
 
-
+![Alt text](https://github.com/jonathandrnd/Face-Recognition/blob/master/sample.png?raw=true "Title")
 
 # References
 
