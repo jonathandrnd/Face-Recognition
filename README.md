@@ -15,6 +15,7 @@ Face recognition problems commonly fall into two categories:
 # Files Description
 
 - **FaceRecognition.ipynb :** Contains the source code, Given a video and a database (People images folder) perform face recognition. Aditionally save the video with people's tags.
+If you have problems rendering, try here https://nbviewer.jupyter.org/github/jonathandrnd/Face-Recognition/blob/master/FaceRecognition.ipynb
 - **/database:**  Contains one image per person in the video. (You can add your own images , change video, or use Webcam).
 - **facenet_keras_160x160.h5 :** Model Weights in Keras (FaceNet).
 - **haarcascade_frontalface_default.xml** It was used for comparison purposes with MTCNN.
