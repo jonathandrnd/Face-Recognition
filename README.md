@@ -23,6 +23,10 @@ If you have problems rendering, **try here** https://nbviewer.jupyter.org/github
 
 ![Alt text](https://github.com/jonathandrnd/Face-Recognition/blob/master/_img/sample.png?raw=true "Title")
 
+# Requirements
+Python 3.6, tensorflow>=1.12.0 , tensorflow-gpu>=1.12.0 , Keras==2.2.4 , mtcnn==0.0.9
+Check requirements.txt
+
 # References
 
 - Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
