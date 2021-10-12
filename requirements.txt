@@ -1,7 +1,7 @@
 matplotlib==3.0.3
 Keras==2.2.4
 numpy==1.17.1
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 Pillow==6.2.0
 sklearn==0.0
 tensorflow==1.12.0
